@@ -11,13 +11,7 @@
     width: 100vw;
   }
   
-  .popsicle {
-    position: relative;
-    width: 200px;
-    height: 230px;
-    border-top-left-radius: 75px;
-    border-top-right-radius: 75px;
-    border: 3px solid black;
+ 
     
     background: repeating-linear-gradient(
       90deg,
