@@ -20,7 +20,7 @@
     border: 3px solid black;
     
     background: repeating-linear-gradient(
-      315deg,
+      75deg,
       rgba(255,252,84,1) 0%, rgba(255,252,84,1) 10%,
       rgba(116,101,230,1) 10%, rgba(116,101,230,1) 20%,
       rgba(239,137,239,1) 20%, rgba(239,137,239,1) 30%,
